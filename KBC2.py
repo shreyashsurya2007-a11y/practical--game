@@ -1,8 +1,8 @@
 questions=[
-    ["which language was shreyash is chakka  used to create facebook?","Python","Franch","Javascript","PHP",4],
+    ["which language was used to create facebook?","Python","Franch","Javascript","PHP",4],
     ["who created python?","Dennis Ritchie","Guido van rossum","James Gosling","Bjarne stroustrup",2],
     ["what does html stands for?","Hyper text markup langauge","high tech modern language","javascript ","python",1],
-    ["How many continents kbc(kachave bhosadi cha) are there?", "5", "6", "7", "8", 3],
+    ["How many continents are there?", "5", "6", "7", "8", 3],
     ["Which planet is known as the Red Planet?", "Earth", "Mars", "Venus", "Jupiter", 2],
     ["What is the capital of India?", "Mumbai", "Delhi", "Kolkata", "Chennai", 2],
     ["Who is the CEO of Tesla?", "Elon Musk", "Bill Gates", "Mark Zuckerberg", "Sundar Pichai", 1],
